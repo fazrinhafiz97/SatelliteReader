@@ -5,7 +5,7 @@
 --REQUIREMENTS--
 --1) IntelliJ-- <br />
 
---INSTRUCTIONS--
+--INSTRUCTIONS-- <br />
 --1) Download the ZIP file in GitHub-- <br />
 --2) Extract the file-- <br />
 --3) Open the file in IntelliJ-- <br />
@@ -14,7 +14,7 @@
 --5) Choose the Dependencies section, click the "+" button and choose 'JARs or Directories..'-- <br />
 --6) Add the JAR file which is gson-2.8.2.jar-- <br />
 --7) Click on apply and OK-- <br />
---8) Before you run the program, you need to specify the timestamp first-- <br />
+--8) Go to Program.java module and run the program, it will shows an error because we did not specify any timestamp-- <br />
 --9) To do that, click on drop down button on the Program at the right hand corner bar-- <br />
 --10) Choose 'Edit Configurations..' <br />
 --11) At the 'Build and run' section, enter a past date and time on the Program arguments i.e. "23/07/2021 5:41pm (UTC +0)" <br />
